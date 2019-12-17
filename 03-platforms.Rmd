@@ -1,0 +1,47 @@
+# Platforms
+
+This is often the first question, and as I've already suggested implicitly above, it shoudln't be. There are dozens of possible platforms and technologies you can use. Some are just plainly awful, but others are good at some tasks and not at others. Some are expensive, and some are free. Others can be self-hosted with adequate planning. There are a few things you need to know about videoconferencing which will set the stage for quite a lot of your thinking about best practices:
+
+Ten facts about videoconferencing:
+
+1. There are basically three ways to exchange audiovisual information with a large group. All of these approaches try and implement different ways to get around lag or delay in the av stream. Lag and delay are very bad, and as such should be prevented at all costs. In my view, if you aren't willing to make a good faith effort to avoid these things, you shouldn't be including videoconferencing in your event.
+
+The most obvious way is by playing a *pre-recorded video*. There are a range of software applications that can be used to do this, and don't take for granted that production quality matters, but this is also the most straight forward approach. The primary advantage here is that viewers can digest at their own pace, stopping and starting so as to most fully understand the video. Also if there are technical problems on the receiving end, the viewer can always restart and try again (assuming you've given them enough time to do so). There are also less obvious advantages, particularly around accessibility of content. Pre-recorded sessions can have subtitles or translations added.
+
+The second way is to use a live stream. Live streams can be: (a) one-way (so viewers aren't sending a stream of their own back with comments, etc.) or (b) two-way. And, perhaps the least appreciated underlying difference among various technologies lies in the way that data is sent to your computer. AV streams are always broken into manageable bits that can be sent out, but this data can be sent **directly** from a server, or they can be distributed in a **peer-to-peer** mesh. In a direct connection, two computers pass information directly - one to one. This is actually unusual as this places quite a heavy load on that main server. A peer-to-peer connection essentially disseminates the information to a few computers who then participate in the process of distribution with others. This distributes load and can create possibilties for ad hoc connections which don't require expensive direct internet connections. However, this also introduces new opportunities for error. 
+
+There are also two factors to internet connections which need to be considered: (1) latency and (2) bandwidth...
+
+# Why platforms?
+
+A lot of people are focussed on the choice of platform, and this can tend to obscure the range of options available. Why assume that you need to make use of a single platform to perform all the tasks involved in hosting a conference? At the very least, you've already used email to correspond with your delegates, and possibly to coordinate with co-hosts. I highly recommend that you fracture your approach by focussing on functions which need to performed, identify the risks associated with the use of technology to perform these tasks, and then choose the best option which addresses these risks well for your context. Some platforms will perform several functions well, but it is very rare that they will perform all of them exceptionally. It is also quite likely that some of these functions need to be performed live, or synchronously, whereas others do not need to be, particularly if you're running an all-digital conference.
+
+# Thinking in terms of "functions"
+
+(1) administrative/back-channel discussion
+
+This relates to chats which are purely logistical in nature, individuals may need to be reminded when the session starts, or of the groundrules for discussion, or to troubleshoot issues, one individual might need to be reminded to mute their mic so they aren't distracting, another might need help getting access to audio or fielding questions about timing and procedure. 
+
+(2a) audio/video stream for speakers / facilitators
+
+(2b) content hosting
+
+This relates to the occasioal need to share files, if a speaker has powerpoint slides to share, or if a paper is going to be distributed in advance. You may want to restrict access to this content.
+
+(2c) recording of presentations for re-viewing
+
+(2d) recording of discussion or deliberations for re-viewing
+
+(3) session Q&A
+
+(4) audio/video stream from non-speakers
+
+(5) decision making activities
+
+
+(1) Video-streaming
+
+
+Some highly opinionated suggestions based on the conference scenarios you outlined in the previous setion:
+
+(1) 

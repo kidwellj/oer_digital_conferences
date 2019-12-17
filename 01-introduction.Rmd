@@ -1,0 +1,23 @@
+# Introduction
+
+So you want to run a conference online. Or maybe you're concerned that you aren't reaching the right audience and want to spice things up a bit? Or, like me, you're anxious about the carbon footprint of these kinds of activities and want to find a more sustainable way to run a conference.
+
+This toolkit has been designed with all these things in mind. However, my abiding concern is to ensure that digital or digitally-enhanced conferences are *better* because of the use of technology and not merely cheaper to organise. So in the highly opinionated commentary below, you will find that the end result will be *more* and not *less* work. If you're looking to run a digital conference to save yourself some trouble, then this is absolutely not the guide for you. I am firmly convinced that doing this kind of enhancement does actually make things better, more sustainable, more accessible, but done poorly, digital conferences actually can either make a good conference pointless, or worse than it might have otherwise been. And if we're really going to advocate for low-carbon approaches to things, it is a rather important part of the overall evangelism for this cause to avoid pitching this as a concession.
+
+If you're still with me, that's a good sign! Now, here's a sense of the structure of this toolkit. I'm aware than many readers may want to pick and choose, so this is deliberately segmented.
+
+1. Prologue: finding your conference genre
+
+Here I set up a series of queries to enable users to better specify their needs and identify possible areas where design work around the sensitive integration of technology might fit.
+
+2. My (anti-)Platform approach
+
+A summary of options, particularly tailored to the kinds of discernment generated from the previous excercise.
+
+3. Engagement
+
+How do you meaningfully engage with users? Should I use that cool digital tool I saw on facebook last week? We discuss here how to set up engagement that works.
+
+4. Epilogue: how things might be?
+
+In a bit of speculative wondering I ponder my perfect scenario and examine some not-yet-proven tools which may yet prove exciting.

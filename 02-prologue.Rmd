@@ -1,0 +1,40 @@
+# Prologue: finding your conference genre
+
+I'm going to provide a series of questions that everyone should answer, at least briefly, as part of a process of discerning what kind of conference is going to be run and how best to dovetail technology with the proceedings. You can copy this to a document and fill in with details which will be useful to have in hand 
+
+1. Are you planning to run a purely digital event or would you like to enhance a residential event with digital content?
+
+Answer code: (a) all-digital or (b) hybrid
+
+2. What sorts of goals do you have for the programming? (check all that apply) Is it:
+
+a. to disseminate information? (one-way)
+b. to disseminate information and process it afterwards with the speaker? (one-to-many)
+b. to facilitate discussion and exchange views? (two-way)
+c. to conduct deliberative processes, possibly resulting in a decision? (two-way-deliberation)
+
+3. How many people need to be involved in each activity?
+
+a. up to 10 (small group)
+b. 10-50 (community)
+c. more than 50 (meta-community)
+
+4. What is the span of time zones that will be included?
+
+a. only 1
+b. 2-4 (with a maximum divergence of 4 hours across any two participants)
+c. 5-8
+d. 8 or more
+
+5. How much time do you need for presentations? Discussion?
+
+a. 8 hours or less combined
+b. at least 2-3 days
+c. a week or more
+
+6. How extended can your proceedings be?
+
+a. This needs to be planned across a very narrow window of time (e.g. exclusively across the time allocated for Q5 above)
+b. I can expect participants to be engaged across a full week
+c. I can expect participants to be engaged across a full month
+d. I can expect participants to be engaged across a several months to a year
